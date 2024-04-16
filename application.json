@@ -38,6 +38,9 @@
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
   "icon": "file",
+  "unpublishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,

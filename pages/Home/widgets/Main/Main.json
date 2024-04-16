@@ -1,6 +1,6 @@
 {
     "needsErrorInfo": false,
-    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+    "boxShadow": "none",
     "mobileBottomRow": 17,
     "widgetName": "Main",
     "borderColor": "#fef9c3",
@@ -13,7 +13,7 @@
         "group"
     ],
     "topRow": 5,
-    "bottomRow": 28,
+    "bottomRow": 43,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -31,7 +31,7 @@
         "widgetName": "Canvas1",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 220,
+        "bottomRow": 380,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -65,7 +65,7 @@
         "minDynamicHeight": 4,
         "flexLayers": []
     }],
-    "borderWidth": "2",
+    "borderWidth": "0",
     "flexVerticalAlignment": "stretch",
     "key": "8m83qvtrex",
     "backgroundColor": "#ffffffff",
@@ -88,6 +88,6 @@
     "borderRadius": "0.375rem",
     "mobileLeftColumn": 6,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 28,
+    "originalBottomRow": 43,
     "minDynamicHeight": 10
 }
