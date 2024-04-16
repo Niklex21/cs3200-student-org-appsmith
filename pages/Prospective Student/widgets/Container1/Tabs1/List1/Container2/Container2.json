@@ -62,14 +62,10 @@
   "isVisible": true,
   "version": 1,
   "isListItemContainer": true,
-  "tags": [
-    "Layout"
-  ],
+  "tags": ["Layout"],
   "isLoading": false,
   "noContainerOffset": true,
-  "disabledWidgetFeatures": [
-    "dynamicHeight"
-  ],
+  "disabledWidgetFeatures": ["dynamicHeight"],
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "needsErrorInfo": false,
   "mobileBottomRow": 12,
@@ -77,11 +73,7 @@
   "disallowCopy": true,
   "dynamicPropertyPathList": [],
   "displayName": "Container",
-  "searchTags": [
-    "div",
-    "parent",
-    "group"
-  ],
+  "searchTags": ["div", "parent", "group"],
   "bottomRow": 12,
   "dragDisabled": true,
   "hideCard": false,

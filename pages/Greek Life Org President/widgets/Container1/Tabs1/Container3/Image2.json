@@ -33,9 +33,7 @@
   "isVisible": true,
   "version": 1,
   "parentId": "dk2k9dw7lc",
-  "tags": [
-    "Media"
-  ],
+  "tags": ["Media"],
   "renderMode": "CANVAS",
   "isLoading": false,
   "mobileTopRow": 2,

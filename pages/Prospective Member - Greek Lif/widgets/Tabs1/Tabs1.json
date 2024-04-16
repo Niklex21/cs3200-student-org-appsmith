@@ -172,9 +172,7 @@
   "shouldShowTabs": true,
   "isVisible": true,
   "version": 3,
-  "tags": [
-    "Layout"
-  ],
+  "tags": ["Layout"],
   "isLoading": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "originalBottomRow": 85,

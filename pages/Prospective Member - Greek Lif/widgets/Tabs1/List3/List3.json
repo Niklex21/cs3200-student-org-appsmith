@@ -86,10 +86,7 @@
   "itemBackgroundColor": "#FFFFFF",
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "isVisible": true,
-  "tags": [
-    "Suggested",
-    "Display"
-  ],
+  "tags": ["Suggested", "Display"],
   "hasMetaWidgets": true,
   "isLoading": false,
   "mainCanvasId": "5n0y3t3cv6",

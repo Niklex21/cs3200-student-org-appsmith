@@ -34,9 +34,7 @@
   "isVisible": true,
   "version": 1,
   "parentId": "w1up0bzkva",
-  "tags": [
-    "Media"
-  ],
+  "tags": ["Media"],
   "renderMode": "CANVAS",
   "isLoading": false,
   "mobileTopRow": 0,

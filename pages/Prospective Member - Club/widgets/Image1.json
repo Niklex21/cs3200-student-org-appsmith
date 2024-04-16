@@ -32,9 +32,7 @@
   "isVisible": true,
   "version": 1,
   "parentId": "0",
-  "tags": [
-    "Media"
-  ],
+  "tags": ["Media"],
   "renderMode": "CANVAS",
   "isLoading": false,
   "mobileTopRow": 2,
