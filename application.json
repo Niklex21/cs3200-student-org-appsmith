@@ -63,6 +63,18 @@
     {
       "id": "Sororities",
       "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Club",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Sport",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Greek Lif",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -70,11 +82,13 @@
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
   "icon": "file",
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
-    }
-  ],
+  "unpublishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
+  "publishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
