@@ -42,7 +42,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 2,
     "responsiveBehavior": "hug",
-    "originalTopRow": 10,
+    "originalTopRow": 13,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 2,
