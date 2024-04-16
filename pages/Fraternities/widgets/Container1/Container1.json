@@ -7,11 +7,7 @@
   "isCanvas": true,
   "displayName": "Container",
   "iconSVG": "https://appcdn.appsmith.com/static/media/icon.dcc052e58db911c4c8955c200f4bcf5c.svg",
-  "searchTags": [
-    "div",
-    "parent",
-    "group"
-  ],
+  "searchTags": ["div", "parent", "group"],
   "topRow": 16,
   "bottomRow": 49,
   "parentRowSpace": 10,
@@ -91,9 +87,7 @@
   "isVisible": true,
   "version": 1,
   "parentId": "0",
-  "tags": [
-    "Layout"
-  ],
+  "tags": ["Layout"],
   "renderMode": "CANVAS",
   "isLoading": false,
   "mobileTopRow": 25,
