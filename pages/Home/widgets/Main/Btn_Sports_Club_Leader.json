@@ -4,7 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 11,
     "widgetName": "Btn_Sports_Club_Leader",
-    "onClick": "{{navigateTo('Sports Club Leader', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Club Sports President', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",

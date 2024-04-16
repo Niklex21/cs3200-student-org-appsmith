@@ -5,11 +5,11 @@
       "isDefault": true
     },
     {
-      "id": "Perspective Student",
+      "id": "Club Sports President",
       "isDefault": false
     },
     {
-      "id": "Sports Club Leader",
+      "id": "Prospective Student",
       "isDefault": false
     },
     {
@@ -17,7 +17,51 @@
       "isDefault": false
     },
     {
-      "id": "Greek Life Leader",
+      "id": "Student Life",
+      "isDefault": false
+    },
+    {
+      "id": "Cultural and Spiritual",
+      "isDefault": false
+    },
+    {
+      "id": "Involvement",
+      "isDefault": false
+    },
+    {
+      "id": "Support and Resources",
+      "isDefault": false
+    },
+    {
+      "id": "Health and Wellbeing",
+      "isDefault": false
+    },
+    {
+      "id": "Athletics",
+      "isDefault": false
+    },
+    {
+      "id": "Student Involvement",
+      "isDefault": false
+    },
+    {
+      "id": "City Engagement",
+      "isDefault": false
+    },
+    {
+      "id": "Team1",
+      "isDefault": false
+    },
+    {
+      "id": "Greek Life Org President",
+      "isDefault": false
+    },
+    {
+      "id": "Fraternities",
+      "isDefault": false
+    },
+    {
+      "id": "Sororities",
       "isDefault": false
     }
   ],
@@ -26,7 +70,11 @@
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
   "icon": "file",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,

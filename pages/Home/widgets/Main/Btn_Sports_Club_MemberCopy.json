@@ -4,7 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 15,
     "widgetName": "Btn_Sports_Club_MemberCopy",
-    "onClick": "{{navigateTo('Sports Club Member', {}, 'SAME_WINDOW');\nnavigateTo('Greek Life Leader', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Greek Life Org President', {}, 'SAME_WINDOW');\nnavigateTo('Greek Life Leader', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",
