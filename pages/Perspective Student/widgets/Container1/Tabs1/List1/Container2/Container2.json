@@ -1,5 +1,5 @@
 {
-    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "boxShadow": "none",
     "borderColor": "#E0DEDE",
     "isCanvas": true,
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.dcc052e58db911c4c8955c200f4bcf5c.svg",
@@ -8,14 +8,10 @@
     "isDeletable": false,
     "animateLoading": true,
     "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "borderRadius"},
-        {"key": "boxShadow"}
-    ],
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
     "children": [{
         "needsErrorInfo": false,
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
-        "mobileBottomRow": null,
         "widgetName": "Canvas6",
         "displayName": "Canvas",
         "topRow": 0,
@@ -24,8 +20,6 @@
         "type": "CANVAS_WIDGET",
         "canExtend": false,
         "hideCard": true,
-        "minHeight": null,
-        "mobileRightColumn": null,
         "useAutoLayout": false,
         "parentColumnSpace": 1,
         "leftColumn": 0,
@@ -35,7 +29,6 @@
         ],
         "key": "c5i1h9nt3d",
         "isDeprecated": false,
-        "rightColumn": null,
         "detachFromLayout": true,
         "dynamicHeight": "AUTO_HEIGHT",
         "widgetId": "zb0b4bekd8",
@@ -68,6 +61,7 @@
     "mobileBottomRow": 12,
     "widgetName": "Container2",
     "disallowCopy": true,
+    "dynamicPropertyPathList": [],
     "displayName": "Container",
     "searchTags": [
         "div",
@@ -79,6 +73,7 @@
     "hideCard": false,
     "shouldScrollContents": false,
     "mobileRightColumn": 64,
+    "dynamicTriggerPathList": [],
     "borderWidth": "1",
     "positioning": "fixed",
     "key": "owb1axfrpe",

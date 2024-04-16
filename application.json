@@ -19,6 +19,18 @@
     {
       "id": "Greek Life Leader",
       "isDefault": false
+    },
+    {
+      "id": "Perspective Member - Club",
+      "isDefault": false
+    },
+    {
+      "id": "Perspective Member - Sport",
+      "isDefault": false
+    },
+    {
+      "id": "Perspective Member - Greek Lif",
+      "isDefault": false
     }
   ],
   "viewMode": false,
