@@ -3,6 +3,22 @@
     {
       "id": "Home",
       "isDefault": true
+    },
+    {
+      "id": "Perspective Student",
+      "isDefault": false
+    },
+    {
+      "id": "Sports Club Leader",
+      "isDefault": false
+    },
+    {
+      "id": "Sports Club Member",
+      "isDefault": false
+    },
+    {
+      "id": "Greek Life Leader",
+      "isDefault": false
     }
   ],
   "viewMode": false,
