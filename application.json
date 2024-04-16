@@ -5,11 +5,11 @@
       "isDefault": true
     },
     {
-      "id": "Perspective Student",
+      "id": "Club Sports President",
       "isDefault": false
     },
     {
-      "id": "Sports Club Leader",
+      "id": "Prospective Student",
       "isDefault": false
     },
     {
@@ -17,19 +17,63 @@
       "isDefault": false
     },
     {
-      "id": "Greek Life Leader",
+      "id": "Student Life",
       "isDefault": false
     },
     {
-      "id": "Perspective Member - Club",
+      "id": "Cultural and Spiritual",
       "isDefault": false
     },
     {
-      "id": "Perspective Member - Sport",
+      "id": "Involvement",
       "isDefault": false
     },
     {
-      "id": "Perspective Member - Greek Lif",
+      "id": "Support and Resources",
+      "isDefault": false
+    },
+    {
+      "id": "Health and Wellbeing",
+      "isDefault": false
+    },
+    {
+      "id": "Athletics",
+      "isDefault": false
+    },
+    {
+      "id": "Student Involvement",
+      "isDefault": false
+    },
+    {
+      "id": "City Engagement",
+      "isDefault": false
+    },
+    {
+      "id": "Team1",
+      "isDefault": false
+    },
+    {
+      "id": "Greek Life Org President",
+      "isDefault": false
+    },
+    {
+      "id": "Fraternities",
+      "isDefault": false
+    },
+    {
+      "id": "Sororities",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Club",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Sport",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Greek Lif",
       "isDefault": false
     }
   ],
