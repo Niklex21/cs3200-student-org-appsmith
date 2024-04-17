@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 19,
-    "bottomRow": 23,
+    "topRow": 23,
+    "bottomRow": 28,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -31,7 +31,7 @@
     "text": "Upcoming Events!",
     "key": "2ot0as6w9g",
     "isDeprecated": false,
-    "rightColumn": 17,
+    "rightColumn": 28,
     "thumbnailSVG": "/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
@@ -50,9 +50,11 @@
     "isLoading": false,
     "mobileTopRow": 16,
     "responsiveBehavior": "fill",
+    "originalTopRow": 23,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 4,
     "maxDynamicHeight": 9000,
-    "fontSize": "1rem",
+    "originalBottomRow": 28,
+    "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }

@@ -3,7 +3,7 @@
     "needsErrorInfo": false,
     "boxShadow": "none",
     "mobileBottomRow": 15,
-    "onClick": "{{navigateTo('Greek Life Org President', {\n  \"id\": \"3\"\n}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Greek Life Org President', {\n  //\"id\": 4\n}, 'SAME_WINDOW');}}",
     "widgetName": "Btn_Greek_Life_President",
     "buttonColor": "#be185d",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",

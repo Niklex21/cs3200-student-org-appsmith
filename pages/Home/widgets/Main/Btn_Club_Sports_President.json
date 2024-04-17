@@ -3,7 +3,7 @@
     "needsErrorInfo": false,
     "boxShadow": "none",
     "mobileBottomRow": 11,
-    "onClick": "{{navigateTo('Club Sports President', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Club Sports President', {\n  //\"id\": 1\n}, 'SAME_WINDOW');}}",
     "widgetName": "Btn_Club_Sports_President",
     "buttonColor": "#22c55e",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.cb7371e9a48acf9db0f2f3ea0a714255.svg",
