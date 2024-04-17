@@ -13,7 +13,7 @@
       "isDefault": false
     },
     {
-      "id": "Sports Club Member",
+      "id": "Greek Life Org President",
       "isDefault": false
     },
     {
@@ -62,6 +62,18 @@
     },
     {
       "id": "Sororities",
+      "isDefault": false,
+    },
+    {
+      "id": "Prospective Member - Club",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Sport",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Greek Lif",
       "isDefault": false
     }
   ],
@@ -75,6 +87,12 @@
       "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
     }
   ],
+  "unpublishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
+  "publishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,

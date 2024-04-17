@@ -12,8 +12,13 @@
         "parent",
         "group"
     ],
+<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Container1.json
     "topRow": 6,
     "bottomRow": 48,
+========
+    "topRow": 13,
+    "bottomRow": 61,
+>>>>>>>> release:pages/Prospective Student/widgets/Container1/Container1.json
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -33,7 +38,11 @@
         "widgetName": "Canvas1",
         "displayName": "Canvas",
         "topRow": 0,
+<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Container1.json
         "bottomRow": 420,
+========
+        "bottomRow": 480,
+>>>>>>>> release:pages/Prospective Student/widgets/Container1/Container1.json
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -86,10 +95,14 @@
     "isLoading": false,
     "mobileTopRow": 3,
     "responsiveBehavior": "fill",
-    "originalTopRow": 6,
+    "originalTopRow": 13,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 2,
     "maxDynamicHeight": 9000,
+<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Container1.json
     "originalBottomRow": 48,
+========
+    "originalBottomRow": 60,
+>>>>>>>> release:pages/Prospective Student/widgets/Container1/Container1.json
     "minDynamicHeight": 10
 }
