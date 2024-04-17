@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Greek Life Org President",
-    "slug": "greek-life-org-president",
+    "name": "Greek Life Leader - Alumni",
+    "slug": "greek-life-leader-alumni",
     "layouts": [
       {
         "viewMode": false,
@@ -13,14 +13,14 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 550,
+          "bottomRow": 440,
           "containerStyle": "none",
-          "snapRows": 76,
+          "snapRows": 72,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 89,
-          "minHeight": 780,
+          "minHeight": 740,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Greek Life Org President",
+        "id": "Greek Life Leader - Alumni",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6616b5fe2b166722c844cd17_661df46bedd38109d6d86cd5"
+  "gitSyncId": "661ffd83c166eb4c6dc408b3_662003c9c166eb4c6dc408e5"
 }

@@ -39,6 +39,14 @@
     {
       "id": "Club Sport Pres Alumni",
       "isDefault": false
+    },
+    {
+      "id": "Greek Life Leader - Members",
+      "isDefault": false
+    },
+    {
+      "id": "Greek Life Leader - Alumni",
+      "isDefault": false
     }
   ],
   "viewMode": false,
