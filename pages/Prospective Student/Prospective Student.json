@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Greek Life Leader",
-    "slug": "greek-life-leader",
+    "name": "Prospective Student",
+    "slug": "prospective-student",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 770,
+          "bottomRow": 610,
           "containerStyle": "none",
           "snapRows": 76,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Greek Life Leader",
+        "id": "Prospective Student",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6616b5fe2b166722c844cd17_661df46bedd38109d6d86cd5"
+  "gitSyncId": "6616b5fe2b166722c844cd17_6616b884d61198757a31876a"
 }

@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Perspective Member - Club",
-    "slug": "perspective-member-club",
+    "name": "Club Sports President",
+    "slug": "club-sports-president",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 850,
+          "bottomRow": 770,
           "containerStyle": "none",
           "snapRows": 76,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Perspective Member - Club",
+        "id": "Club Sports President",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6616b5fe2b166722c844cd17_661e89dab7c777103b437328"
+  "gitSyncId": "6616b5fe2b166722c844cd17_6616ba9fa6b4a3463f787417"
 }

@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Perspective Member - Greek Lif",
-    "slug": "perspective-member-greek-lif",
+    "name": "Prospective Member - Greek Lif",
+    "slug": "prospective-member-greek-lif",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Perspective Member - Greek Lif",
+        "id": "Prospective Member - Greek Lif",
         "deleted": false,
         "policies": [],
         "userPermissions": []

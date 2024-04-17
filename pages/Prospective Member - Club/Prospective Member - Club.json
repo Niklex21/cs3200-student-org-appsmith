@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Perspective Student",
-    "slug": "perspective-student",
+    "name": "Prospective Member - Club",
+    "slug": "prospective-member-club",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 610,
+          "bottomRow": 850,
           "containerStyle": "none",
           "snapRows": 76,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Perspective Student",
+        "id": "Prospective Member - Club",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6616b5fe2b166722c844cd17_6616b884d61198757a31876a"
+  "gitSyncId": "6616b5fe2b166722c844cd17_661e89dab7c777103b437328"
 }
