@@ -89,7 +89,7 @@
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
     "widgetName": "List2",
-    "listData": "{{Api3.data}}",
+    "listData": "{{get_executive_board.data}}",
     "displayName": "List",
     "bottomRow": 128,
     "parentRowSpace": 10,

@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{Api2.data[currentIndex][3]}} -- {{Api2.data[currentIndex][4]}}",
+    "text": "{{get_upcoming_events.data[currentIndex][3]}} -- {{get_upcoming_events.data[currentIndex][4]}}",
     "key": "2ot0as6w9g",
     "isDeprecated": false,
     "rightColumn": 42,

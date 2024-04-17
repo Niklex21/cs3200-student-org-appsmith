@@ -28,46 +28,46 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Prospective Member - Org_Api1",
-              "name": "Api1",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Prospective Member - Org_Api5",
-              "name": "Api5",
+              "id": "Prospective Member - Org_get_upcoming_events",
+              "name": "get_upcoming_events",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "Api1.data[0]"
+                "appsmith.URL.queryParams.id"
               ],
               "timeoutInMillisecond": 10000
             }
           ],
           [
             {
-              "id": "Prospective Member - Org_Api3",
-              "name": "Api3",
+              "id": "Prospective Member - Org_get_executive_board",
+              "name": "get_executive_board",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "Api1.data[0]"
+                "appsmith.URL.queryParams.id"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Prospective Member - Org_get_org_by_id",
+              "name": "get_org_by_id",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "appsmith.URL.queryParams.id"
               ],
               "timeoutInMillisecond": 10000
             }
           ],
           [
             {
-              "id": "Prospective Member - Org_Api4",
-              "name": "Api4",
+              "id": "Prospective Member - Org_get_user_data",
+              "name": "get_user_data",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "Api3.data[0][0]"
+                "get_executive_board.data[0][0]"
               ],
               "timeoutInMillisecond": 10000
             }

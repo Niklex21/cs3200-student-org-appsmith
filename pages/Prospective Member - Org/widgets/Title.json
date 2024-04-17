@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{Api1.data[1]}}",
+    "text": "{{get_org_by_id.data[1]}}",
     "key": "hdeb7k4ae5",
     "isDeprecated": false,
     "rightColumn": 28,

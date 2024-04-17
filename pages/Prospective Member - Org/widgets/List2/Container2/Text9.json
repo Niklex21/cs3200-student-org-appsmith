@@ -29,7 +29,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{Api4.data.firstName}} {{ Api4.data.lastName}}",
+    "text": "{{get_user_data.data.firstName}} {{ get_user_data.data.lastName}}",
     "key": "2ot0as6w9g",
     "isDeprecated": false,
     "rightColumn": 18,

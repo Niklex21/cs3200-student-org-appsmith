@@ -89,7 +89,7 @@
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
     "widgetName": "List1",
-    "listData": "{{Api5.data}}",
+    "listData": "{{get_upcoming_events.data}}",
     "dynamicPropertyPathList": [{"key": "primaryKeys"}],
     "displayName": "List",
     "bottomRow": 97,
