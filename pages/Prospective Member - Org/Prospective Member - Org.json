@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Prospective Student",
-    "slug": "prospective-student",
+    "name": "Prospective Member - Org",
+    "slug": "prospective-member-org",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 520,
+          "bottomRow": 850,
           "containerStyle": "none",
           "snapRows": 76,
           "parentRowSpace": 1,
@@ -25,21 +25,10 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Prospective Student_get_all_the_orgs",
-              "name": "get_all_the_orgs",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Prospective Student",
+        "id": "Prospective Member - Org",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -50,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6616b5fe2b166722c844cd17_6616b884d61198757a31876a"
+  "gitSyncId": "6616b5fe2b166722c844cd17_661e89dab7c777103b437328"
 }

@@ -17,15 +17,7 @@
       "isDefault": false
     },
     {
-      "id": "Prospective Member - Club",
-      "isDefault": false
-    },
-    {
-      "id": "Prospective Member - Sport",
-      "isDefault": false
-    },
-    {
-      "id": "Prospective Member - Greek Lif",
+      "id": "Prospective Member - Org",
       "isDefault": false
     }
   ],
