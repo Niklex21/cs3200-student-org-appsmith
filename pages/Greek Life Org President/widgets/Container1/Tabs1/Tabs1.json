@@ -19,11 +19,7 @@
             "mobileBottomRow": 150,
             "widgetName": "Canvas2",
             "displayName": "Canvas",
-<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Tabs1/Tabs1.json
             "bottomRow": 350,
-========
-            "bottomRow": 410,
->>>>>>>> release:pages/Prospective Student/widgets/Container1/Tabs1/Tabs1.json
             "topRow": 0,
             "parentRowSpace": 1,
             "type": "CANVAS_WIDGET",
@@ -68,11 +64,7 @@
             "mobileBottomRow": 150,
             "widgetName": "Canvas3",
             "displayName": "Canvas",
-<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Tabs1/Tabs1.json
             "bottomRow": 350,
-========
-            "bottomRow": 410,
->>>>>>>> release:pages/Prospective Student/widgets/Container1/Tabs1/Tabs1.json
             "topRow": 0,
             "parentRowSpace": 1,
             "type": "CANVAS_WIDGET",
@@ -118,11 +110,7 @@
             "widgetName": "Canvas4",
             "displayName": "Canvas",
             "topRow": 1,
-<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Tabs1/Tabs1.json
             "bottomRow": 350,
-========
-            "bottomRow": 410,
->>>>>>>> release:pages/Prospective Student/widgets/Container1/Tabs1/Tabs1.json
             "parentRowSpace": 1,
             "type": "CANVAS_WIDGET",
             "canExtend": false,
@@ -168,20 +156,12 @@
     "tags": ["Layout"],
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Tabs1/Tabs1.json
     "originalBottomRow": 40,
-========
-    "originalBottomRow": 45,
->>>>>>>> release:pages/Prospective Student/widgets/Container1/Tabs1/Tabs1.json
     "needsErrorInfo": false,
     "mobileBottomRow": 16,
     "widgetName": "Tabs1",
     "displayName": "Tabs",
-<<<<<<<< HEAD:pages/Greek Life Org President/widgets/Container1/Tabs1/Tabs1.json
     "bottomRow": 40,
-========
-    "bottomRow": 46,
->>>>>>>> release:pages/Prospective Student/widgets/Container1/Tabs1/Tabs1.json
     "parentRowSpace": 10,
     "hideCard": false,
     "shouldScrollContents": true,
