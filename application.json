@@ -3,6 +3,30 @@
     {
       "id": "Home",
       "isDefault": true
+    },
+    {
+      "id": "Prospective Student",
+      "isDefault": false
+    },
+    {
+      "id": "Club Sports President",
+      "isDefault": false
+    },
+    {
+      "id": "Greek Life Org President",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Club",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Sport",
+      "isDefault": false
+    },
+    {
+      "id": "Prospective Member - Greek Lif",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -10,6 +34,12 @@
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
   "icon": "file",
+  "unpublishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
+  "publishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
