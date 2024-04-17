@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Club Sports President",
-    "slug": "club-sports-president",
+    "name": "Club Sport Pres Roster",
+    "slug": "club-sport-pres-roster",
     "layouts": [
       {
         "viewMode": false,
@@ -13,14 +13,14 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1250,
+          "bottomRow": 790,
           "containerStyle": "none",
-          "snapRows": 76,
+          "snapRows": 78,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 89,
-          "minHeight": 780,
+          "minHeight": 800,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Club Sports President",
+        "id": "Club Sport Pres Roster",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6616b5fe2b166722c844cd17_6616ba9fa6b4a3463f787417"
+  "gitSyncId": "661ff2c21fd15c1c6e72857b_661ff94f1fd15c1c6e728592"
 }

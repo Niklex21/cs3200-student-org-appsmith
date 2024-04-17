@@ -27,6 +27,26 @@
     {
       "id": "Prospective Member - Greek Lif",
       "isDefault": false
+    },
+    {
+      "id": "Club Sport Pres EBoard",
+      "isDefault": false
+    },
+    {
+      "id": "Club Sport Pres Roster",
+      "isDefault": false
+    },
+    {
+      "id": "Club Sport Pres Active Roster",
+      "isDefault": false
+    },
+    {
+      "id": "Club Sport Pres Supporters",
+      "isDefault": false
+    },
+    {
+      "id": "Club Sport Pres Alumni",
+      "isDefault": false
     }
   ],
   "viewMode": false,
