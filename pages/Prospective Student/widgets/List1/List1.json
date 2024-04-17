@@ -109,7 +109,7 @@
     "thumbnailSVG": "/static/media/thumbnail.469b7e8d3a04de93014af9a7bc9ebe56.svg",
     "widgetId": "hat66h44h6",
     "minWidth": 450,
-    "onItemClick": "{{navigateTo('Prospective Member - Org', {\n  \"id\": currentIndex\n}, 'SAME_WINDOW');}}",
+    "onItemClick": "{{navigateTo('Prospective Member - Org', {\n  \"id\": currentItem[0]\n}, 'SAME_WINDOW');}}",
     "parentId": "0",
     "renderMode": "CANVAS",
     "mobileTopRow": 12,
