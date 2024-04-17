@@ -29,7 +29,7 @@
     "leftColumn": 2,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "{{currentItem[1]}}",
+    "text": "{{currentItem.position}}",
     "key": "2ot0as6w9g",
     "isDeprecated": false,
     "rightColumn": 35,

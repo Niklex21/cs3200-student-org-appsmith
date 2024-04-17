@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 101,
-    "bottomRow": 105,
+    "topRow": 151,
+    "bottomRow": 155,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -31,7 +31,7 @@
     "text": "Eboard members:",
     "key": "2ot0as6w9g",
     "isDeprecated": false,
-    "rightColumn": 18,
+    "rightColumn": 60,
     "thumbnailSVG": "/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
@@ -50,11 +50,11 @@
     "isLoading": false,
     "mobileTopRow": 101,
     "responsiveBehavior": "fill",
-    "originalTopRow": 101,
+    "originalTopRow": 151,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 2,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 105,
+    "originalBottomRow": 155,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }

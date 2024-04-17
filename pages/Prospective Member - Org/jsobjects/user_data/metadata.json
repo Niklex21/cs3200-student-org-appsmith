@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "user_data",
+    "pageId": "Prospective Member - Org",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "user_data",
+        "value": "[]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Prospective Member - Org_user_data",
+  "deleted": false,
+  "gitSyncId": "661ffd83c166eb4c6dc408b3_6620164d8637cf73f70bb393"
+}
