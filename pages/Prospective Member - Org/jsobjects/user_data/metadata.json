@@ -6,12 +6,7 @@
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "variables": [
-      {
-        "name": "user_data",
-        "value": "[]"
-      }
-    ],
+    "variables": [],
     "userPermissions": []
   },
   "id": "Prospective Member - Org_user_data",

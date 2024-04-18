@@ -59,19 +59,6 @@
               ],
               "timeoutInMillisecond": 10000
             }
-          ],
-          [
-            {
-              "id": "Prospective Member - Org_user_data.onPageLoad",
-              "name": "user_data.onPageLoad",
-              "collectionId": "Prospective Member - Org_user_data",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "async function () {\n  const user_data = [];\n  for (let row of get_executive_board.data) {\n    const data = await get_user_data.run({\n      id: row[0]\n    });\n    user_data.push({\n      \"position\": row[1],\n      \"firstName\": data.firstName,\n      \"lastName\": data.lastName\n    });\n  }\n  storeValue(\"user_data\", user_data);\n  return user_data;\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            }
           ]
         ],
         "layoutOnLoadActionErrors": [],
