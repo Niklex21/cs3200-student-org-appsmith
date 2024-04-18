@@ -1,7 +1,7 @@
 {
     "needsErrorInfo": false,
     "mobileBottomRow": 7,
-    "widgetName": "Text7",
+    "widgetName": "page_title",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a55b701a2ae86aa2c6718ecb7b4083f0.svg",
     "searchTags": [
