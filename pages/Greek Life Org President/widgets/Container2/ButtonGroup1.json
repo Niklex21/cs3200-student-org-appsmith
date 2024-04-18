@@ -10,11 +10,27 @@
         "click",
         "submit"
     ],
-    "topRow": 13,
+    "topRow": 2,
     "bottomRow": 19,
     "parentRowSpace": 10,
     "type": "BUTTON_GROUP_WIDGET",
     "groupButtons": {
+        "groupButton7fzkdxaggz": {
+            "itemType": "BUTTON",
+            "onClick": "{{showModal('edit_org_modal');}}",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "iconName": "edit",
+            "widgetId": "p95wz6bo0i",
+            "menuItems": {},
+            "index": 2,
+            "label": "Edit org info",
+            "isVisible": true,
+            "buttonType": "SIMPLE",
+            "buttonVariant": "filled",
+            "id": "groupButton7fzkdxaggz",
+            "isDisabled": false,
+            "placement": "CENTER"
+        },
         "groupButton1": {
             "onClick": "{{navigateTo('Greek Life Leader - Members', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
@@ -50,33 +66,35 @@
     "parentColumnSpace": 14.8125,
     "dynamicTriggerPathList": [
         {"key": "groupButtons.groupButton1.onClick"},
-        {"key": "groupButtons.groupButton2.onClick"}
+        {"key": "groupButtons.groupButton2.onClick"},
+        {"key": "groupButtons.groupButton7fzkdxaggz.onClick"}
     ],
-    "leftColumn": 12,
+    "leftColumn": 45,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "groupButtons.groupButton1.buttonColor"},
-        {"key": "groupButtons.groupButton2.buttonColor"}
+        {"key": "groupButtons.groupButton2.buttonColor"},
+        {"key": "groupButtons.groupButton7fzkdxaggz.buttonColor"}
     ],
     "key": "1jn1uj7ih4",
-    "orientation": "horizontal",
+    "orientation": "vertical",
     "isDeprecated": false,
-    "rightColumn": 50,
+    "rightColumn": 63,
     "thumbnailSVG": "/static/media/thumbnail.eaa22f923be763e8779a46432554f1ed.svg",
     "widgetId": "2xkxvrw5r3",
     "minWidth": 450,
     "isVisible": true,
     "version": 1,
-    "parentId": "0",
+    "parentId": "9lslxggexz",
     "tags": ["Buttons"],
     "renderMode": "CANVAS",
     "isLoading": false,
     "mobileTopRow": 17,
     "responsiveBehavior": "fill",
     "childStylesheet": {"button": {"buttonColor": "{{appsmith.theme.colors.primaryColor}}"}},
-    "originalTopRow": 13,
+    "originalTopRow": 16,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 12,
-    "originalBottomRow": 19,
-    "buttonVariant": "PRIMARY"
+    "originalBottomRow": 22,
+    "buttonVariant": "SECONDARY"
 }

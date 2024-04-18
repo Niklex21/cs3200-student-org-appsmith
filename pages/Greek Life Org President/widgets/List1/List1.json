@@ -4,7 +4,7 @@
     "isCanvas": true,
     "templateHeight": 160,
     "iconSVG": "/static/media/icon.25a47fc4c639c22e8da41e27e998b550.svg",
-    "topRow": 30,
+    "topRow": 41,
     "pageSize": 3,
     "type": "LIST_WIDGET_V2",
     "itemSpacing": 8,
@@ -77,7 +77,7 @@
     "isLoading": false,
     "mainCanvasId": "j7h6ccl89c",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 98,
+    "originalBottomRow": 108,
     "additionalStaticProps": [
         "level",
         "levelData",
@@ -92,7 +92,7 @@
     "listData": "{{upcoming_events.data}}",
     "dynamicPropertyPathList": [{"key": "primaryKeys"}],
     "displayName": "List",
-    "bottomRow": 98,
+    "bottomRow": 109,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 25,
@@ -112,7 +112,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 24,
     "responsiveBehavior": "fill",
-    "originalTopRow": 30,
+    "originalTopRow": 40,
     "mobileLeftColumn": 1,
     "selectedItemView": "{{{}}}"
 }
