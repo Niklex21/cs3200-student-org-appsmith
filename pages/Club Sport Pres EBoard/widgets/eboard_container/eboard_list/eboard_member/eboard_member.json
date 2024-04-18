@@ -15,7 +15,6 @@
     "children": [{
         "needsErrorInfo": false,
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
-        "mobileBottomRow": null,
         "widgetName": "Canvas3",
         "displayName": "Canvas",
         "topRow": 0,
@@ -24,8 +23,6 @@
         "type": "CANVAS_WIDGET",
         "canExtend": false,
         "hideCard": true,
-        "minHeight": null,
-        "mobileRightColumn": null,
         "useAutoLayout": false,
         "parentColumnSpace": 1,
         "leftColumn": 0,
@@ -35,7 +32,6 @@
         ],
         "key": "0sgcmgplnc",
         "isDeprecated": false,
-        "rightColumn": null,
         "detachFromLayout": true,
         "dynamicHeight": "AUTO_HEIGHT",
         "widgetId": "5heyxgr687",
@@ -66,7 +62,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "needsErrorInfo": false,
     "mobileBottomRow": 12,
-    "widgetName": "Container2",
+    "widgetName": "eboard_member",
     "disallowCopy": true,
     "displayName": "Container",
     "searchTags": [

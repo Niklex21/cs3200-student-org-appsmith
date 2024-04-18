@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1060,
+          "bottomRow": 980,
           "containerStyle": "none",
           "snapRows": 76,
           "parentRowSpace": 1,
@@ -28,8 +28,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Greek Life Org President_Api1",
-              "name": "Api1",
+              "id": "Greek Life Org President_upcoming_events",
+              "name": "upcoming_events",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
