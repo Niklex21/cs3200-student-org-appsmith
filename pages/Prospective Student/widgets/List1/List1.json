@@ -78,7 +78,7 @@
     "isLoading": false,
     "mainCanvasId": "hpgvyds8po",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 52,
+    "originalBottomRow": 113,
     "additionalStaticProps": [
         "level",
         "levelData",
@@ -90,7 +90,7 @@
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
     "widgetName": "List1",
-    "listData": "{{get_all_the_orgs.data}}",
+    "listData": "{{get_all_orgs.data}}",
     "dynamicPropertyPathList": [{"key": "primaryKeys"}],
     "displayName": "List",
     "bottomRow": 113,
