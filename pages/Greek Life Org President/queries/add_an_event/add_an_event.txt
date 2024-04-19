@@ -1,0 +1,13 @@
+{{
+	{
+		'orgID': 4,
+		'name': event_name_input.text,
+		'startTime': event_date.formattedDate,
+		'endTime': event_date.formattedDate,
+		'location': event_location.text,
+		'eventType': 'Meetings',
+		'agenda': agenda.text,
+		'duration': "30 minutes",
+		'meetingID': 84
+	}
+}}

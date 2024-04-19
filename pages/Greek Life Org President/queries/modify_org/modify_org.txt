@@ -1,0 +1,7 @@
+{{
+	{
+		"name": org_name.text,
+		"establishedAt": established_at.formattedDate,
+		"orgType": get_org_info.data[3]
+	}
+}}

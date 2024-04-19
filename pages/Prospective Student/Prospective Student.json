@@ -28,8 +28,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Prospective Student_get_all_the_orgs",
-              "name": "get_all_the_orgs",
+              "id": "Prospective Student_get_all_orgs",
+              "name": "get_all_orgs",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
