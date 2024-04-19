@@ -28,8 +28,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Prospective Member - Org_get_upcoming_events",
-              "name": "get_upcoming_events",
+              "id": "Prospective Member - Org_get_executive_board",
+              "name": "get_executive_board",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
@@ -38,12 +38,13 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Prospective Member - Org_user_data.onPageLoad",
-              "name": "user_data.onPageLoad",
-              "collectionId": "Prospective Member - Org_user_data",
+              "id": "Prospective Member - Org_get_upcoming_events",
+              "name": "get_upcoming_events",
               "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [],
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "appsmith.URL.queryParams.id"
+              ],
               "timeoutInMillisecond": 10000
             }
           ],
