@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "delete_member_js",
+    "pageId": "Greek Life Leader - Members",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "selectedUserID",
+        "value": "null"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Greek Life Leader - Members_delete_member_js",
+  "deleted": false,
+  "gitSyncId": "6621e027403a673a07c50e7e_6621e345403a673a07c50eb3"
+}
