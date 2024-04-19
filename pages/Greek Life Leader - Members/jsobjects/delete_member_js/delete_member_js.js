@@ -13,17 +13,12 @@ export default {
 
 	// Function to run the delete API call
 	async deleteUser () {
-		// Check if the selectedUserID is stored and not null
-		if (this.selectedUserID) {
+		if (appsmith.store.selectedUserID) {
 			try {
 				// Construct the endpoint with the stored user ID
-				const response = await delete_member.run({
-					pathParams: { userID: this.selectedUserID }
-				});
-
+				const response = await delete_member.run({});
 
 				// Handle the success response
-				// Add whatever logic you need here, like refreshing the list
 				showAlert('Member deleted successfully.', 'success');
 
 				// Optionally, close the modal if it's still open
@@ -31,7 +26,6 @@ export default {
 
 				// Clear the selected user ID after deletion
 				this.selectedUserID = null;
-
 			} catch (error) {
 				// Handle any errors
 				showAlert('Failed to delete member: ' + error.message, 'error');
