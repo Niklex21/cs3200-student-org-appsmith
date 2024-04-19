@@ -5,31 +5,47 @@
       "isDefault": true
     },
     {
-      "id": "Perspective Student",
+      "id": "Prospective Student",
       "isDefault": false
     },
     {
-      "id": "Sports Club Leader",
+      "id": "Club Sports President",
       "isDefault": false
     },
     {
-      "id": "Sports Club Member",
+      "id": "Greek Life Org President",
       "isDefault": false
     },
     {
-      "id": "Greek Life Leader",
+      "id": "Prospective Member - Org",
       "isDefault": false
     },
     {
-      "id": "Perspective Member - Club",
+      "id": "Club Sport Pres EBoard",
       "isDefault": false
     },
     {
-      "id": "Perspective Member - Sport",
+      "id": "Club Sport Pres Roster",
       "isDefault": false
     },
     {
-      "id": "Perspective Member - Greek Lif",
+      "id": "Club Sport Pres Active Roster",
+      "isDefault": false
+    },
+    {
+      "id": "Club Sport Pres Supporters",
+      "isDefault": false
+    },
+    {
+      "id": "Greek Life Leader - Members",
+      "isDefault": false
+    },
+    {
+      "id": "Greek Life Leader - Alumni",
+      "isDefault": false
+    },
+    {
+      "id": "Club Sport Pres Alumni",
       "isDefault": false
     }
   ],
@@ -38,6 +54,12 @@
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
   "icon": "file",
+  "unpublishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
+  "publishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
