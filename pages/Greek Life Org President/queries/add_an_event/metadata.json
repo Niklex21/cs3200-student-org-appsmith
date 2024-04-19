@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{\n\t{\n\t\t'orgID': 4,\n\t\t'name': event_name_input.text,\n\t\t'startTime': event_date.formattedDate,\n\t\t'endTime': event_date.formattedDate,\n\t\t'location': event_location.text,\n\t\t'eventType': 'Meetings',\n\t\t'agenda': agenda.text,\n\t\t'duration': \"30 minutes\",\n\t\t'meetingID': 82\n\t}\n}}",
+      "body": "{{\n\t{\n\t\t'orgID': 4,\n\t\t'name': event_name_input.text,\n\t\t'startTime': event_date.formattedDate,\n\t\t'endTime': event_date.formattedDate,\n\t\t'location': event_location.text,\n\t\t'eventType': 'Meetings',\n\t\t'agenda': agenda.text,\n\t\t'duration': \"30 minutes\",\n\t\t'meetingID': 84\n\t}\n}}",
       "bodyFormData": [],
       "httpMethod": "POST",
       "httpVersion": "HTTP11",
@@ -53,7 +53,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "\n\t{\n\t\t'orgID': 4,\n\t\t'name': event_name_input.text,\n\t\t'startTime': event_date.formattedDate,\n\t\t'endTime': event_date.formattedDate,\n\t\t'location': event_location.text,\n\t\t'eventType': 'Meetings',\n\t\t'agenda': agenda.text,\n\t\t'duration': \"30 minutes\",\n\t\t'meetingID': 82\n\t}\n"
+      "\n\t{\n\t\t'orgID': 4,\n\t\t'name': event_name_input.text,\n\t\t'startTime': event_date.formattedDate,\n\t\t'endTime': event_date.formattedDate,\n\t\t'location': event_location.text,\n\t\t'eventType': 'Meetings',\n\t\t'agenda': agenda.text,\n\t\t'duration': \"30 minutes\",\n\t\t'meetingID': 84\n\t}\n"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
